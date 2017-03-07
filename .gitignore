@@ -1,0 +1,5 @@
+node_modules/
+elm-stuff/
+npm-debug.log
+yarn-error.log
+build/
